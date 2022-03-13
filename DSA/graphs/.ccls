@@ -1,0 +1,5 @@
+clang++
+-std=c++17
+-std=c11
+#-I/opt/ros/noetic/include
+#-I/opt/ros/foxy/include
